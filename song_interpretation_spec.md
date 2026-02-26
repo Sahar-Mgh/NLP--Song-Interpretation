@@ -3,7 +3,7 @@
 ## 1) Strict output format
 
 - **Length:** exactly **1 sentence**, **16–24 words**.
-- **Perspective:** **third-person only** (no “I”, “me”, “my”, “you”, “we”).
+- **Perspective:** **first-person only** (no “you”, “we”).
 - **Tone:** **neutral-analytic** and concrete; avoid poetic flourish, moralizing, or slang.
 - **Content rule:** state the song’s central emotional conflict plus likely cause/context in plain language.
 - **Output-only rule:** return only the sentence (no labels, bullets, quotes, emojis, or extra commentary).
